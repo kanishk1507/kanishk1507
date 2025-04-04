@@ -1,4 +1,4 @@
-# Kanishk Acharya| Data Analyst & Business Intelligence Professional
+# Kanishk Acharya | Data Analytics & Business Intelligence Enthusiast
 
 
 ## About Me
