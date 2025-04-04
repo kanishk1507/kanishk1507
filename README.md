@@ -56,6 +56,7 @@ Computer Science undergrad specializing in data analytics and business intellige
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk1507&layout=compact&theme=transparent&hide_border=true" width="400">
 </p>
 
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-acharya-6a5752243)
@@ -64,7 +65,12 @@ Computer Science undergrad specializing in data analytics and business intellige
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i_amkanishk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kanishk._x15)
 
-
 ---
 
 <p align="center"><em>Transforming data into insights, and insights into action.</em></p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kanishk1507&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
