@@ -5,7 +5,7 @@
 Computer Science undergrad specializing in data analytics and business intelligence. Passionate about transforming raw data into meaningful insights using Python, SQL, and visualization tools. Continuously learning and working on projects that enhance data-driven decision-making.
 
 🎓 **B.Tech-Computer Science Engineering Undergrad**  
-💼 **Data Engineering Intern** experience at InfoBeans  
+💼 **Data Engineering Intern** experience at **InfoBeans**  
 📊 Passionate about **Data Analytics, Business Intelligence & Automation**  
 👨‍💻 Currently learning **Full-Stack Data Analytics & AI-based Automation**  
 🧠 Active **DSA Practitioner** & **Continuous Learner**  
